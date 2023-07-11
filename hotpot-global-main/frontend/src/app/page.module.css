@@ -1,0 +1,13 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  max-width: 1440px;
+}
+
+.dashboard {
+  display: flex;
+  justify-content: space-between;
+  gap: 40px;
+  margin: 0px 40px 30px 40px;
+}

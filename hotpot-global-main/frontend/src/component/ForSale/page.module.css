@@ -1,0 +1,11 @@
+.wrapper {
+  width: 50%;
+  background: #fffcea;
+  border-radius: 8px;
+  height: 767px;
+  margin-bottom: 30px;
+}
+.Text {
+  margin-top: 20px;
+  margin-left: 20px;
+}

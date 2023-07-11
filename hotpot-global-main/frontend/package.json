@@ -1,0 +1,52 @@
+{
+  "name": "hotpot",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@biconomy/particle-auth": "^2.0.1",
+    "@particle-network/auth": "^0.14.3",
+    "@particle-network/biconomy": "^0.1.5",
+    "@particle-network/connect-react-ui": "^0.14.5",
+    "@particle-network/provider": "^0.14.3",
+    "@particle-network/rainbowkit-ext": "^0.14.3",
+    "@rainbow-me/rainbowkit": "^1.0.1",
+    "@web3uikit/core": "^1.1.5",
+    "and": "^0.0.3",
+    "axios": "^1.4.0",
+    "bignumber.js": "^9.1.1",
+    "clsx": "^1.2.1",
+    "eslint": "8.43.0",
+    "eslint-config-next": "^12.0.4",
+    "ethers": "^5.5.4",
+    "fs": "^0.0.1-security",
+    "next": "13.4.7",
+    "react": "18.2.0",
+    "react-bootstrap": "^2.1.2",
+    "react-dom": "18.2.0",
+    "react-is": "^18.2.0",
+    "styled-components": "^5.3.11",
+    "viem": "~1.0.6",
+    "wagmi": "~1.2.0",
+    "web3": "^4.0.2",
+    "web3modal": "^1.9.12"
+  },
+  "browser": {
+    "fs": false,
+    "os": false,
+    "path": false,
+    "net": false,
+    "tls": false
+  },
+  "devDependencies": {
+    "@types/node": "^20.3.3",
+    "@types/react": "^18.2.14",
+    "@types/react-dom": "^18.2.6",
+    "typescript": "^5.1.6"
+  }
+}

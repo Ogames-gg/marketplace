@@ -1,0 +1,21 @@
+.wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    width: 100vw;
+}
+.img{
+    align-self: center;
+    width: 150px;
+    height: 150px;
+}
+.Text{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.link{
+    color: fuchsia;
+}
+
