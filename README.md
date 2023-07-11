@@ -1,4 +1,4 @@
-# **OGAMES.GG MARKETPLACE
+# **OGAMES.GG MARKETPLACE**
 
 Background:
 
